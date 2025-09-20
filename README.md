@@ -40,5 +40,3 @@ elif choice == '4':
 
 else:
     print("Invalid choice!")
-
-    print("Invalid choice!")
