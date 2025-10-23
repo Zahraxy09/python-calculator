@@ -28,6 +28,8 @@ num2 = float(input("Enter second number: "))
 
 if choice == '1':
     print("Result:", add(num1, num2))
+        print("Result:", add(num1, num2))
+
 
 elif choice == '2':
     print("Result:", subtract(num1, num2))
