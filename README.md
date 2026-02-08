@@ -1,5 +1,4 @@
 # Simple Calculator in Python 
-# Simple Calculator in Python 
 
 
 def add(x, y):
