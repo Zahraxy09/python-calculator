@@ -1,5 +1,4 @@
 # Simple Calculator in Python 
-# Simple Calculator in Python 
 
 
 def add(x, y):
@@ -44,5 +43,4 @@ elif choice == '4':
     print("Result:", divide(num1, num2))
 
 else:
-    print("Invalid choice!")
     print("Invalid choice!")
